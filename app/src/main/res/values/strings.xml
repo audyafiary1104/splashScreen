@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">splashScreen</string>
+        <string-array name="category">
+            <item> Food </item>
+            <item> Accesoris </item>
+            <item> Gadget </item>
+            <item> Fashion </item>
+        </string-array>
+</resources>
